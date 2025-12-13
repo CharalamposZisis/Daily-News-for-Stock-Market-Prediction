@@ -8,3 +8,6 @@ seaborn
 matplotlib
 ipykernel
 spacy
+lightgbm
+xgboost
+shap
