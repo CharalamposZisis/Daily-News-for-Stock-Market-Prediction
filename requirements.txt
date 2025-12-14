@@ -11,3 +11,5 @@ spacy
 lightgbm
 xgboost
 shap
+gensim
+torch
