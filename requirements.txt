@@ -13,3 +13,4 @@ xgboost
 shap
 gensim
 torch
+tensorflow
