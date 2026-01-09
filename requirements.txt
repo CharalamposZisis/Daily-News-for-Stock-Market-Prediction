@@ -1,0 +1,16 @@
+pandas 
+numpy 
+matplotlib
+nltk
+scikit-learn
+keras
+seaborn
+matplotlib
+ipykernel
+spacy
+lightgbm
+xgboost
+shap
+gensim
+torch
+tensorflow
